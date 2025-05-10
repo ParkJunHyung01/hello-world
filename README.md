@@ -1,2 +1,2 @@
 # hello-world
-practice for using Github
+it's not main, but brunch.
